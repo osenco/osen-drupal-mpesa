@@ -1,0 +1,10 @@
+name: Lipa Na Mpesa
+description: Integrated M-pesa payments.
+package: Custom
+
+type: module
+core: 9.x
+
+php: 7.4
+
+configure: mpesa_settings
